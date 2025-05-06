@@ -1,0 +1,77 @@
+user input
+1. 10, 1, s, n
+2. 1, 1, s, y, s, n
+3. 10, 5, s, n
+
+Output
+1.
+    Starting bankroll: 10
+    Bet size: 1
+    Dealer Hand: ?, 2 
+    Player Hand: 8, Q 
+    
+    Dealer Sum: 2 
+    Player Sum: 18 
+    Stand, hit or double down (S, H or D): S
+    
+    Dealer Cards: 8, 2, 9, 
+    Dealer Sum: 19 
+    
+    Dealer wins...
+    
+    Play Again? n
+    
+    Bankroll: 9 
+    Total profit: -1
+2.
+    Starting bankroll: 1
+    Bet size: 1
+    Dealer Hand: ?, 6 
+    Player Hand: 7, A 
+    
+    Dealer Sum: 6 
+    Player Sum: 8 or 18 
+    Stand, hit or double down (S, H or D): S
+    
+    Dealer Cards: 5, 6, 4, 2, 
+    Dealer Sum: 17 
+    
+    player win
+    
+    Play Again? y
+    
+    Dealer Hand: ?, 6 
+    Player Hand: 4, A 
+    
+    Dealer Sum: 6 
+    Player Sum: 5 or 15 
+    Stand, hit or double down (S, H or D): s
+    
+    Dealer Cards: 3, 6, Q, 
+    Dealer Sum: 19 
+    
+    Dealer wins...
+    
+    Play Again? n
+    
+    Bankroll: 1 
+    Total profit: 0
+3.
+    Starting bankroll: 10
+    Bet size: 5
+    Dealer Hand: ?, 7 
+    Player Hand: 7, 5 
+    
+    Dealer Sum: 7 
+    Player Sum: 12 
+    Stand, hit or double down (S, H or D): s
+    
+    Dealer Cards: K, 7, 
+    Dealer Sum: 17 
+    
+    Dealer wins...
+    
+    Play Again? n
+    
+    Bankroll: 5 
+    Total profit: -5

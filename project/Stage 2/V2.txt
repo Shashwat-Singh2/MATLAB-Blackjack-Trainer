@@ -1,0 +1,42 @@
+user input
+1.  S
+2.  H, H, H, S
+3.  H, S
+
+Output
+1.
+    Dealer Hand: ?, A 
+    Player Hand: 4, 2 
+ 
+    Dealer Sum: 0 
+    Player Sum: 6 
+    Stand or hit (S or H): S
+    Player Sum: 6  
+2.
+    Dealer Hand: ?, 5 
+    Player Hand: 10, K 
+     
+    Dealer Sum: 5 
+    Player Sum: 20 
+    Stand or hit (S or H): H
+    Player Sum: 10, K, A, 
+    Player Sum: 21 or 31 
+    Stand or hit (S or H): H
+    Player Sum: 10, K, A, 6, 
+    Player Sum: 27 or 37 
+    Stand or hit (S or H): H
+    Player Sum: 10, K, A, 6, 5, 
+    Player Sum: 32 or 42 
+    Stand or hit (S or H): S
+    Player Sum: 32 or 42 
+3.
+    Dealer Hand: ?, 3 
+    Player Hand: J, 7 
+     
+    Dealer Sum: 3 
+    Player Sum: 17 
+    Stand or hit (S or H): H
+    Player Sum: J, 7, 6, 
+    Player Sum: 23 
+    Stand or hit (S or H): S
+    Player Sum: 23 

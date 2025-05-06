@@ -1,0 +1,71 @@
+user input
+1.  D, n
+2.  D, n
+3.  D, y, s, n
+
+Output
+1.
+    Dealer Hand: ?, 7 
+    Player Hand: J, K 
+     
+    Dealer Sum: 7 
+    Player Sum: 20 
+    Stand, hit or double down (S, H or D): D
+    Player Cards: J, K, 2, 
+    Player Sum: 22 
+    
+    Bust! 
+    
+    Dealer Cards: 2, 7, 
+    Dealer Sum: 9 
+    
+     dealer wins...
+    
+    Play Again? n
+2.
+    Dealer Hand: ?, K 
+    Player Hand: 2, A 
+    
+    Dealer Sum: 10 
+    Player Sum: 3 or 13 
+    Stand, hit or double down (S, H or D): D
+    Player Cards: 2, A, J, 
+    Player Sum: 13 
+    
+    Dealer Cards: 6, K, J, 
+    Dealer Sum: 26 
+    
+    Dealer busts, player wins
+    
+    Play Again? n
+
+3.
+    Dealer Hand: ?, 6 
+    Player Hand: 2, 4 
+     
+    Dealer Sum: 6 
+    Player Sum: 6 
+    Stand, hit or double down (S, H or D): D
+    Player Cards: 2, 4, J, 
+    Player Sum: 16 
+    
+    Dealer Cards: Q, 6, 6, 
+    Dealer Sum: 22 
+    
+    Dealer busts, player wins
+    
+    Play Again? y
+    
+    Dealer Hand: ?, 4 
+    Player Hand: 3, 2 
+     
+    Dealer Sum: 4 
+    Player Sum: 5 
+    Stand, hit or double down (S, H or D): S
+    
+    Dealer Cards: Q, 4, 2, Q, 
+    Dealer Sum: 26 
+    
+    Dealer busts, player wins
+    
+    Play Again? n

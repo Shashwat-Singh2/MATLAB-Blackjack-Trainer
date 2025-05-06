@@ -1,0 +1,21 @@
+user input
+1.  -
+2.  -
+3.  -
+
+Output
+1.
+    Dealers Hand: ?, 7 
+    Players Hand: 13, 11 
+    Dealer Total: 20 
+    Player Total: 24 
+2.
+    Dealers Hand: ?, 10 
+    Players Hand: 9, 10 
+    Dealer Total: 23 
+    Player Total: 19 
+3.
+    Dealers Hand: ?, 3 
+    Players Hand: 9, 10 
+    Dealer Total: 9 
+    Player Total: 19 

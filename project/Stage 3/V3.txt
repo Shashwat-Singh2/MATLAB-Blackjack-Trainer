@@ -1,0 +1,38 @@
+user input
+1.  H
+2.  S
+3.  H, H
+
+Output
+1.
+    Dealer Hand: ?, 10 
+    Player Hand: 10, 4 
+     
+    Dealer Sum: 10 
+    Player Sum: 14 
+    Stand or hit (S or H): H
+    Player Cards: 10, 4, 9, 
+    Player Sum: 23 
+    
+    Bust! 
+2.
+    Dealer Hand: ?, 2 
+    Player Hand: 3, 7 
+ 
+    Dealer Sum: 2 
+    Player Sum: 10 
+    Stand or hit (S or H): S
+3.
+    Dealer Hand: ?, 8 
+    Player Hand: 5, 3 
+     
+    Dealer Sum: 8 
+    Player Sum: 8 
+    Stand or hit (S or H): H
+    Player Cards: 5, 3, 10, 
+    Player Sum: 18 
+    Stand or hit (S or H): H
+    Player Cards: 5, 3, 10, 4, 
+    Player Sum: 22 
+    
+    Bust! 
